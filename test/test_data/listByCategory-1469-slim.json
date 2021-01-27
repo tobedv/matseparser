@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "soldCount": 1,
+        "countryOfOrigin": "SE"
+    },
+    {
+        "id": 2,
+        "soldCount": 2,
+        "countryOfOrigin": "SE"
+    },
+    {
+        "id": 3,
+        "soldCount": 3,
+        "countryOfOrigin": "SE"
+    },
+    {
+        "id": 4,
+        "soldCount": 4,
+        "countryOfOrigin": "DE"
+    },
+    {
+        "id": 5,
+        "soldCount": 5,
+        "countryOfOrigin": "DE"
+    },
+    {
+        "id": 6,
+        "soldCount": 6,
+        "countryOfOrigin": "UK"
+    },
+    {
+        "id": 7,
+        "soldCount": 7,
+        "countryOfOrigin": "SE"
+    }
+]

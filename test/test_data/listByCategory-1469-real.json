@@ -1,0 +1,1469 @@
+[
+    {
+        "id": 16959,
+        "dateCreated": "Thu Oct 06 03:56:06 CEST 2016",
+        "name": "Lingongrova",
+        "showPrice": "20,50  kr",
+        "friendlyUrl": "lingongrova-pagen-500g",
+        "formattedName": "Lingongrova",
+        "ean": "7311071330525",
+        "countryOfOrigin": "SE",
+        "translatedCountryName": "Sverige",
+        "labelTags": [],
+        "hasImage": true,
+        "imageUrl": "https://d1hr6nb56yyl1.cloudfront.net/product-images/16959-150.jpg",
+        "brand": {
+            "id": 198,
+            "name": "Pågen"
+        },
+        "categories": [
+            {
+                "id": 1488,
+                "name": "Mörkt & Grovt bröd"
+            }
+        ],
+        "displayBrand": "Pågen",
+        "favouriteCount": 18726,
+        "active": true,
+        "inStockQuantity": 258,
+        "orderable": true,
+        "price": 20.5,
+        "priceWithoutVat": 18.30357142860000152495558722876012325286865234375,
+        "recommendedRetailPrice": null,
+        "readableComparisonPrice": "41 kr/kg",
+        "discount": null,
+        "discountedPrice": 0,
+        "size": "500g",
+        "weightProduct": false,
+        "vat": 12,
+        "content": "Vatten, VETEMJÖL1, siktat RÅGMJÖL1, FULLKORNSRÅGMJÖL1, 2, sirap1, klippt FULLKORNSRÅG1, 2, SURDEG på FULLKORNSRÅG1, 2 och VETE1, MALT av KORN, FULLKORNSVETEMJÖL1, 2, VETEGLUTEN1, lingon1  (1,5%), röda vinbär, rapsolja1, skållat VETEMJÖL1, VETEKLI1, jäst och salt.  1 Svenskodlad råvara.  2 Fullkornsingrediens.  Fullkornshalten i brödet är 25% vilket motsvarar 33% av torrvikten.    SVENSKT MJÖL  100% mjöl från svenskodlat SPANNMÅL varav 97% är MALT i egen kvarn.",
+        "nutrition": "Näringsvärde per 100 gram\nEnergi 260.0/1100.0 kilokalori/kilojoule\nFett 3.5 gram\nvarav mättat fett 0.4 gram\nKolhydrat 46.0 gram\nvarav sockerarter 9.0 gram\nFiber 6.5 gram\nProtein 8.5 gram\nSalt 0.7 gram",
+        "durability": null,
+        "recycling": null,
+        "detail": "Fibrer 6,5%, Fullkorn 25%.",
+        "storage": null,
+        "combinedNameWithBrand": "Lingongrova Pågen",
+        "averageProductLife": 7.9,
+        "minimumDaysBeforeExpire": 5,
+        "averageUnitWeight": 0,
+        "weight": 507,
+        "isMixable": false,
+        "idRequired": 0,
+        "tagNames": [
+            "grovt bröd",
+            "frukostbröd",
+            "lingongrova",
+            "bageriprodukter",
+            "mörkt bröd",
+            "bageri",
+            "smörgås",
+            "färdigskivat",
+            "färdigskuret",
+            "skivat",
+            "frukost",
+            "macka",
+            "bröd",
+            "lingonbröd"
+        ],
+        "featured": false,
+        "campaignRank": 2147483647,
+        "availableQuantities": [
+            {
+                "quantity": 258,
+                "quantityKey": "dw-10862"
+            },
+            {
+                "quantity": 258,
+                "quantityKey": "dw-10878"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10908"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10906"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10900"
+            },
+            {
+                "quantity": 186,
+                "quantityKey": "dw-10854"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10884"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10924"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10930"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10882"
+            },
+            {
+                "quantity": 258,
+                "quantityKey": "dw-10870"
+            },
+            {
+                "quantity": 186,
+                "quantityKey": "dw-10848"
+            },
+            {
+                "quantity": 258,
+                "quantityKey": "dw-10864"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10898"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10916"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10934"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10922"
+            },
+            {
+                "quantity": 258,
+                "quantityKey": "default"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10890"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10936"
+            },
+            {
+                "quantity": 258,
+                "quantityKey": "dw-10856"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10914"
+            },
+            {
+                "quantity": 258,
+                "quantityKey": "dw-10872"
+            },
+            {
+                "quantity": 194,
+                "quantityKey": "dw-10892"
+            },
+            {
+                "quantity": 186,
+                "quantityKey": "dw-10846"
+            }
+        ],
+        "emission": 0,
+        "allergies": [
+            {
+                "id": 1,
+                "infoSource": null,
+                "level": {
+                    "enumType": "se.mat.mycroft.enums.AllergyLevel",
+                    "name": "CONTAINS"
+                },
+                "substanceName": "Gluten"
+            }
+        ],
+        "warehouseProductMappingId": null,
+        "productRelationship": {
+            "canBeReplacedWithProductIds": [],
+            "canBeSubstitutedWithProductIds": [
+                16929,
+                70139,
+                64967
+            ],
+            "sameContentProductIds": []
+        },
+        "soldCount": 201863,
+        "variety": "",
+        "isAgreeWithPersonalTerms": null,
+        "hasDeclinedPersonalAgreement": null,
+        "probability": null,
+        "productCountries": [],
+        "productVarieties": [],
+        "productBanner": {
+            "content": "<a href=\"https://www.mat.se/search.html\" target=\"_blank\"><img src=\"https://res.cloudinary.com/he9fywsrk/image/upload/hnncyrbqt47e1vr6tlub.jpg\"></a>",
+            "endDate": null,
+            "id": null,
+            "name": null,
+            "startDate": null
+        },
+        "isShowOnTopProduct": false,
+        "primaryCategoryNamePath": "Mat.se Göteborg/Bageri/Bröd/Mörkt & Grovt bröd"
+    },
+    {
+        "id": 16944,
+        "dateCreated": "Wed Sep 21 03:45:28 CEST 2016",
+        "name": "Hamburgerbröd Frisco",
+        "showPrice": "26,95  kr",
+        "friendlyUrl": "frisco-hamburgerbrod-4-st-korvbrodsbagarn-324g",
+        "formattedName": "Hamburgerbröd Frisco",
+        "ean": "7311379536292",
+        "countryOfOrigin": "SE",
+        "translatedCountryName": "Sverige",
+        "labelTags": [],
+        "hasImage": true,
+        "imageUrl": "https://d1hr6nb56yyl1.cloudfront.net/product-images/16944-150.jpg",
+        "brand": {
+            "id": 12343,
+            "name": "Korvbrödbagarn"
+        },
+        "categories": [
+            {
+                "id": 6695,
+                "name": "Hamburgerbröd"
+            }
+        ],
+        "displayBrand": "Korvbrödbagarn",
+        "favouriteCount": 12953,
+        "active": true,
+        "inStockQuantity": 235,
+        "orderable": true,
+        "price": 26.949999999999999289457264239899814128875732421875,
+        "priceWithoutVat": 24.0625,
+        "recommendedRetailPrice": null,
+        "readableComparisonPrice": "83,18 kr/kg",
+        "discount": null,
+        "discountedPrice": 0,
+        "size": "4P/324g",
+        "weightProduct": false,
+        "vat": 12,
+        "content": "VETEMJÖL, vatten, invertsocker, VETEGLUTEN, rapsolja, jäst, potatismjöl, fermenterat potatismjöl, MANNAGRYN (VETE), salt, socker, potatisfibrer, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300), MALTMJÖL av KORN, kryddor, arom. Kan innehålla spår av SESAMFRÖ. Mjölkfritt.",
+        "nutrition": "Näringsvärde per 100 Gram\nenergi 1221 Kilojoule\nenergi 289 Kilokalori\nfett 4.7 Gram\nvarav mättat fett 0.6 Gram\nkolhydrat 50 Gram\nvarav sockerarter 6.9 Gram\nfiber 2.4 Gram\nprotein 9.9 Gram\nsalt 1.5 Gram",
+        "durability": null,
+        "recycling": null,
+        "detail": "Fribakat hamburgerbröd med topping av mannagryn, skuret.",
+        "storage": "Förvaras vid högst 8 °C",
+        "combinedNameWithBrand": "Hamburgerbröd Frisco Korvbrödbagarn",
+        "averageProductLife": 0,
+        "minimumDaysBeforeExpire": 0,
+        "averageUnitWeight": 331,
+        "weight": 331,
+        "isMixable": false,
+        "idRequired": 0,
+        "tagNames": [
+            "Max",
+            "Hamburgare",
+            "hamburgerbröd",
+            "friscobröd",
+            "burgarbröd",
+            "burgare",
+            "bröd",
+            "grilla"
+        ],
+        "featured": false,
+        "campaignRank": 1,
+        "availableQuantities": [
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10908"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10870"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10864"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10934"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10890"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10936"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10906"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10884"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10914"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10848"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10898"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10872"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10882"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10878"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10854"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10922"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10900"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "default"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10924"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10846"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10856"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10930"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10892"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10862"
+            },
+            {
+                "quantity": 235,
+                "quantityKey": "dw-10916"
+            }
+        ],
+        "emission": 0,
+        "allergies": [
+            {
+                "id": 13,
+                "infoSource": null,
+                "level": {
+                    "enumType": "se.mat.mycroft.enums.AllergyLevel",
+                    "name": "TRACES"
+                },
+                "substanceName": "Sesamfrön"
+            },
+            {
+                "id": 1,
+                "infoSource": null,
+                "level": {
+                    "enumType": "se.mat.mycroft.enums.AllergyLevel",
+                    "name": "CONTAINS"
+                },
+                "substanceName": "Gluten"
+            }
+        ],
+        "warehouseProductMappingId": null,
+        "productRelationship": {
+            "canBeReplacedWithProductIds": [],
+            "canBeSubstitutedWithProductIds": [
+                16965,
+                59035,
+                80349,
+                73052,
+                91732,
+                16923,
+                70743,
+                16942,
+                81191,
+                16943,
+                16941
+            ],
+            "sameContentProductIds": []
+        },
+        "soldCount": 82789,
+        "variety": "",
+        "isAgreeWithPersonalTerms": null,
+        "hasDeclinedPersonalAgreement": null,
+        "probability": null,
+        "productCountries": [],
+        "productVarieties": [],
+        "productBanner": null,
+        "isShowOnTopProduct": false,
+        "primaryCategoryNamePath": "Mat.se Göteborg/Bageri/Bröd/Hamburgerbröd"
+    },
+    {
+        "id": 16916,
+        "dateCreated": "Thu Oct 06 14:00:14 CEST 2016",
+        "name": "Roast´n Toast",
+        "showPrice": "26,50  kr",
+        "friendlyUrl": "roastn-toast-pagen-800g",
+        "formattedName": "Roast´n Toast",
+        "ean": "7311070336160",
+        "countryOfOrigin": "SE",
+        "translatedCountryName": "Sverige",
+        "labelTags": [],
+        "hasImage": true,
+        "imageUrl": "https://d1hr6nb56yyl1.cloudfront.net/product-images/16916-150.jpg",
+        "brand": {
+            "id": 198,
+            "name": "Pågen"
+        },
+        "categories": [
+            {
+                "id": 1487,
+                "name": "Ljust bröd"
+            }
+        ],
+        "displayBrand": "Pågen",
+        "favouriteCount": 12654,
+        "active": true,
+        "inStockQuantity": 136,
+        "orderable": true,
+        "price": 26.5,
+        "priceWithoutVat": 23.660714285699999237522206385619938373565673828125,
+        "recommendedRetailPrice": null,
+        "readableComparisonPrice": "33,12 kr/kg",
+        "discount": null,
+        "discountedPrice": 0,
+        "size": "800g",
+        "weightProduct": false,
+        "vat": 12,
+        "content": "VETEMJÖL1, vatten, SURDEG på VETE, rapsolja1, vallmofrö  (1%), havssalt, VETEGLUTEN, jäst, socker1, MALT av KORN.  1 Svenskodlad råvara.    SVENSKT MJÖL  100% mjöl från svenskodlat SPANNMÅL MALT i egen kvarn.",
+        "nutrition": "Näringsvärde per 100 gram\nEnergi 263.0/1100.0 kilokalori/kilojoule\nFett 3.6 gram\nvarav mättat fett 0.4 gram\nKolhydrat 46.0 gram\nvarav sockerarter 4.7 gram\nFiber 3.6 gram\nProtein 8.9 gram\nSalt 1.0 gram",
+        "durability": null,
+        "recycling": null,
+        "detail": "Sveriges mest sålda rostbröd! Ett extra gott rostbröd som höjer smaken på dina tillbehör. Utsökt rostbröd för alla som älskar att rosta, passar lika bra till en skön långfrukost som till en lyxig förrätt. Mjuk och saftig med goda vallmofrön gör Roast'n Toast oemotståndligt gott!",
+        "storage": null,
+        "combinedNameWithBrand": "Roast´n Toast Pågen",
+        "averageProductLife": 8,
+        "minimumDaysBeforeExpire": 5,
+        "averageUnitWeight": 0,
+        "weight": 808,
+        "isMixable": false,
+        "idRequired": 0,
+        "tagNames": [
+            "toastbröd",
+            "ljust bröd",
+            "skivat",
+            "macka",
+            "färdigskivat",
+            "vitt bröd",
+            "bröd",
+            "färdigskuret",
+            "frukostbröd",
+            "bageri",
+            "nyår",
+            "rostbröd",
+            "frukost",
+            "frukostmat",
+            "bageriprodukter",
+            "toast",
+            "smörgås",
+            "mackor"
+        ],
+        "featured": false,
+        "campaignRank": 2147483647,
+        "availableQuantities": [
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10916"
+            },
+            {
+                "quantity": 136,
+                "quantityKey": "dw-10862"
+            },
+            {
+                "quantity": 136,
+                "quantityKey": "dw-10870"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10930"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10892"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10934"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10882"
+            },
+            {
+                "quantity": 93,
+                "quantityKey": "dw-10854"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10890"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10908"
+            },
+            {
+                "quantity": 136,
+                "quantityKey": "default"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10924"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10898"
+            },
+            {
+                "quantity": 136,
+                "quantityKey": "dw-10864"
+            },
+            {
+                "quantity": 79,
+                "quantityKey": "dw-10846"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10900"
+            },
+            {
+                "quantity": 93,
+                "quantityKey": "dw-10848"
+            },
+            {
+                "quantity": 136,
+                "quantityKey": "dw-10856"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10922"
+            },
+            {
+                "quantity": 136,
+                "quantityKey": "dw-10872"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10906"
+            },
+            {
+                "quantity": 136,
+                "quantityKey": "dw-10878"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10936"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10884"
+            },
+            {
+                "quantity": 100,
+                "quantityKey": "dw-10914"
+            }
+        ],
+        "emission": 0,
+        "allergies": [
+            {
+                "id": 1,
+                "infoSource": null,
+                "level": {
+                    "enumType": "se.mat.mycroft.enums.AllergyLevel",
+                    "name": "CONTAINS"
+                },
+                "substanceName": "Gluten"
+            }
+        ],
+        "warehouseProductMappingId": null,
+        "productRelationship": {
+            "canBeReplacedWithProductIds": [
+                17174,
+                16962,
+                16927
+            ],
+            "canBeSubstitutedWithProductIds": [
+                17173,
+                70775,
+                16925
+            ],
+            "sameContentProductIds": []
+        },
+        "soldCount": 93902,
+        "variety": "",
+        "isAgreeWithPersonalTerms": null,
+        "hasDeclinedPersonalAgreement": null,
+        "probability": null,
+        "productCountries": [],
+        "productVarieties": [],
+        "productBanner": null,
+        "isShowOnTopProduct": false,
+        "primaryCategoryNamePath": "Mat.se Göteborg/Bageri/Bröd/Ljust bröd"
+    },
+    {
+        "id": 17185,
+        "dateCreated": "Sat Oct 15 04:00:36 CEST 2016",
+        "name": "Jubileumskaka",
+        "showPrice": "20,95  kr",
+        "friendlyUrl": "jubileumskaka-polarbrod-400g",
+        "formattedName": "Jubileumskaka",
+        "ean": "7311800009784",
+        "countryOfOrigin": "SE",
+        "translatedCountryName": "Sverige",
+        "labelTags": [],
+        "hasImage": true,
+        "imageUrl": "https://d1hr6nb56yyl1.cloudfront.net/product-images/17185-150.jpg",
+        "brand": {
+            "id": 211,
+            "name": "Polarbröd"
+        },
+        "categories": [
+            {
+                "id": 1487,
+                "name": "Ljust bröd"
+            }
+        ],
+        "displayBrand": "Polarbröd",
+        "favouriteCount": 10776,
+        "active": true,
+        "inStockQuantity": 72,
+        "orderable": true,
+        "price": 20.949999999999999289457264239899814128875732421875,
+        "priceWithoutVat": 18.705357142899998734719702042639255523681640625,
+        "recommendedRetailPrice": null,
+        "readableComparisonPrice": "52,38 kr/kg",
+        "discount": null,
+        "discountedPrice": 0,
+        "size": "400g",
+        "weightProduct": false,
+        "vat": 12,
+        "content": "VETEMJÖL, vatten, sirap, rapsolja, VETEGLUTEN, torrjäst, fermenterat VETEMJÖL, salt, vegetabiliskt emulgeringsmedel (E471 och E472e), HAVREFIBER, MALTMJÖL (KORN), mjölbehandlingsmedel (E300). Mjölkfri. Bakat i Norrland",
+        "nutrition": "Näringsvärde per 100 gram\nEnergi 1200/290 kilojoule/kilokalori\nFett 6.6 gram\nvarav mättat fett 0.8 gram\nKolhydrat 46 gram\nvarav sockerarter 5.1 gram\nFiber 2.6 gram\nProtein 9 gram\nSalt 0.73 gram",
+        "durability": null,
+        "recycling": null,
+        "detail": null,
+        "storage": null,
+        "combinedNameWithBrand": "Jubileumskaka Polarbröd",
+        "averageProductLife": 0,
+        "minimumDaysBeforeExpire": 0,
+        "averageUnitWeight": 0,
+        "weight": 408,
+        "isMixable": false,
+        "idRequired": 0,
+        "tagNames": [
+            "frukostbröd",
+            "smörgås",
+            "frukost",
+            "bröd",
+            "bageriprodukter",
+            "bageri",
+            "macka"
+        ],
+        "featured": false,
+        "campaignRank": 89,
+        "availableQuantities": [
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10872"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10930"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10856"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10906"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10882"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "default"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10864"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10916"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10900"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10922"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10890"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10846"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10870"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10908"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10934"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10914"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10898"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10924"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10884"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10848"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10892"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10936"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10878"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10854"
+            },
+            {
+                "quantity": 72,
+                "quantityKey": "dw-10862"
+            }
+        ],
+        "emission": 0,
+        "allergies": [
+            {
+                "id": 1,
+                "infoSource": null,
+                "level": {
+                    "enumType": "se.mat.mycroft.enums.AllergyLevel",
+                    "name": "CONTAINS"
+                },
+                "substanceName": "Gluten"
+            }
+        ],
+        "warehouseProductMappingId": null,
+        "productRelationship": {
+            "canBeReplacedWithProductIds": [],
+            "canBeSubstitutedWithProductIds": [],
+            "sameContentProductIds": []
+        },
+        "soldCount": 80248,
+        "variety": "",
+        "isAgreeWithPersonalTerms": null,
+        "hasDeclinedPersonalAgreement": null,
+        "probability": null,
+        "productCountries": [],
+        "productVarieties": [],
+        "productBanner": null,
+        "isShowOnTopProduct": false,
+        "primaryCategoryNamePath": "Mat.se Göteborg/Bageri/Bröd/Ljust bröd"
+    },
+    {
+        "id": 17187,
+        "dateCreated": "Wed Sep 21 04:05:30 CEST 2016",
+        "name": "Sarek Tunnbröd",
+        "showPrice": "25,50  kr",
+        "friendlyUrl": "sarek-8-pack-polarbrod-375g",
+        "formattedName": "Sarek Tunnbröd",
+        "ean": "7311800640109",
+        "countryOfOrigin": "SE",
+        "translatedCountryName": "Sverige",
+        "labelTags": [],
+        "hasImage": true,
+        "imageUrl": "https://d1hr6nb56yyl1.cloudfront.net/product-images/17187-150.jpg",
+        "brand": {
+            "id": 211,
+            "name": "Polarbröd"
+        },
+        "categories": [
+            {
+                "id": 6701,
+                "name": "Tunnbröd"
+            }
+        ],
+        "displayBrand": "Polarbröd",
+        "favouriteCount": 10650,
+        "active": true,
+        "inStockQuantity": 155,
+        "orderable": true,
+        "price": 25.5,
+        "priceWithoutVat": 22.767857142899998734719702042639255523681640625,
+        "recommendedRetailPrice": null,
+        "readableComparisonPrice": "68 kr/kg",
+        "discount": null,
+        "discountedPrice": 0,
+        "size": "8P/375g",
+        "weightProduct": false,
+        "vat": 12,
+        "content": "VETEMJÖL, siktat RÅGMJÖL (18%), vatten, sirap, VETEGLUTEN, socker, salt, rapsolja, vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror), bakpulver (hjorthornssalt), jäst, MALTMJÖL (KORN). Mjölkfri. Bakat i Norrland.",
+        "nutrition": "Näringsvärde per 100 Gram\nenergi 1220 Kilojoule\nenergi 290 Kilokalori\nfett 2.2 Gram\nvarav mättat fett 0.6 Gram\nkolhydrat 56 Gram\nvarav sockerarter 7.9 Gram\nfiber 3 Gram\nprotein 9.1 Gram\nsalt 0.95 Gram",
+        "durability": null,
+        "recycling": null,
+        "detail": "Polarbröds Sarek är originalet - äkta norrländskt tunnbröd. Det är mjukt och smidigt, doftar nybakat och har en diskret smak av råg som bär fram de finaste nyanserna i favoritpålägg och fyllningar. Passar utmärkt till att göra rullar, snittar och wraps med.\n\nVi fryser vårt bröd så fort det kommer rykande ur ugnen, och tinar det på väg till dig. Hållbar i 7 dagar i rumstemperatur, se bäst-före-märkning på förpackningen.\n\nFrys gärna in en del av bröden hemma och ta fram efter behov, så maxar du njutningen och minskar svinnet på en och samma gång.",
+        "storage": "Frys gärna in en del av bröden hemma och ta fram efter behov, så maxar du njutningen och minskar svinnet på en och samma gång.",
+        "combinedNameWithBrand": "Sarek Tunnbröd Polarbröd",
+        "averageProductLife": 0,
+        "minimumDaysBeforeExpire": 0,
+        "averageUnitWeight": 381,
+        "weight": 381,
+        "isMixable": false,
+        "idRequired": 0,
+        "tagNames": [
+            "bageri",
+            "Tunnbröd",
+            "macka",
+            "bröd",
+            "frukost",
+            "snacks",
+            "picnic",
+            "tunnbrödsrulle",
+            "frukostbröd",
+            "snittar",
+            "8-pack",
+            "smörgås",
+            "bageriprodukter"
+        ],
+        "featured": false,
+        "campaignRank": 75,
+        "availableQuantities": [
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10846"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10848"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10908"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10924"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10862"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10898"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10882"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10900"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10872"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10884"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10856"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10854"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10914"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10870"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10916"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10930"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10864"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10934"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10878"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10892"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10890"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "default"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10906"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10936"
+            },
+            {
+                "quantity": 155,
+                "quantityKey": "dw-10922"
+            }
+        ],
+        "emission": 0,
+        "allergies": [
+            {
+                "id": 1,
+                "infoSource": null,
+                "level": {
+                    "enumType": "se.mat.mycroft.enums.AllergyLevel",
+                    "name": "CONTAINS"
+                },
+                "substanceName": "Gluten"
+            }
+        ],
+        "warehouseProductMappingId": null,
+        "productRelationship": {
+            "canBeReplacedWithProductIds": [
+                70922,
+                80346,
+                16904
+            ],
+            "canBeSubstitutedWithProductIds": [
+                17163
+            ],
+            "sameContentProductIds": []
+        },
+        "soldCount": 71293,
+        "variety": "",
+        "isAgreeWithPersonalTerms": null,
+        "hasDeclinedPersonalAgreement": null,
+        "probability": null,
+        "productCountries": [],
+        "productVarieties": [],
+        "productBanner": null,
+        "isShowOnTopProduct": false,
+        "primaryCategoryNamePath": "Mat.se Göteborg/Bageri/Bröd/Tunnbröd"
+    },
+    {
+        "id": 16974,
+        "dateCreated": "Mon Feb 20 15:24:22 CET 2017",
+        "name": "Korvbröd",
+        "showPrice": "19,95  kr",
+        "friendlyUrl": "korvbrod-10-st-korvbrodsbagarn-270g",
+        "formattedName": "Korvbröd",
+        "ean": "7311379532072",
+        "countryOfOrigin": "SE",
+        "translatedCountryName": "Sverige",
+        "labelTags": [
+            {
+                "id": 15,
+                "name": "Särnär fri från laktos",
+                "tag": "fri_laktos"
+            }
+        ],
+        "hasImage": true,
+        "imageUrl": "https://d1hr6nb56yyl1.cloudfront.net/product-images/16974-150.jpg",
+        "brand": {
+            "id": 12343,
+            "name": "Korvbrödbagarn"
+        },
+        "categories": [
+            {
+                "id": 2981,
+                "name": "Korvbröd"
+            }
+        ],
+        "displayBrand": "Korvbrödbagarn",
+        "favouriteCount": 10457,
+        "active": true,
+        "inStockQuantity": 135,
+        "orderable": true,
+        "price": 19.949999999999999289457264239899814128875732421875,
+        "priceWithoutVat": 17.8125,
+        "recommendedRetailPrice": null,
+        "readableComparisonPrice": "73,89 kr/kg",
+        "discount": null,
+        "discountedPrice": 0,
+        "size": "10P/270g",
+        "weightProduct": false,
+        "vat": 12,
+        "content": "VETEMJÖL, vatten, invertsocker, rapsolja, jäst, VETEGLUTEN, fermenterat VETEMJÖL, salt, vegetabiliskt emulgeringsmedel (E471), MALTMJÖL av KORN, mjölbehandlingsmedel E300. Kan innehålla spår av SESAMFRÖ. MJÖLKFRITT",
+        "nutrition": "Näringsvärde per 100 Gram\nenergi 1200 Kilojoule\nenergi 290 Kilokalori\nfett 6.3 Gram\nvarav mättat fett 0.7 Gram\nkolhydrat 48 Gram\nvarav sockerarter 4.4 Gram\nfiber 2 Gram\nprotein 9.4 Gram\nsalt 0.4 Gram",
+        "durability": null,
+        "recycling": null,
+        "detail": "Fribakat korvbröd, skuret",
+        "storage": "Förvaras vid högst 8 °C",
+        "combinedNameWithBrand": "Korvbröd Korvbrödbagarn",
+        "averageProductLife": 0,
+        "minimumDaysBeforeExpire": 0,
+        "averageUnitWeight": 276,
+        "weight": 276,
+        "isMixable": false,
+        "idRequired": 0,
+        "tagNames": [
+            "ljust bröd",
+            "bageriprodukter",
+            "grilla",
+            "korvbröd",
+            "matbröd",
+            "korv",
+            "bröd",
+            "grillkorv",
+            "varmkorv",
+            "bageri",
+            "korvbrödsbagarn",
+            "vitt bröd"
+        ],
+        "featured": false,
+        "campaignRank": 104,
+        "availableQuantities": [
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10862"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10930"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10848"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "default"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10864"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10924"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10906"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10882"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10870"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10900"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10878"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10936"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10892"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10908"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10934"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10916"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10922"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10854"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10914"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10898"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10884"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10872"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10846"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10890"
+            },
+            {
+                "quantity": 135,
+                "quantityKey": "dw-10856"
+            }
+        ],
+        "emission": 0,
+        "allergies": [
+            {
+                "id": 1,
+                "infoSource": null,
+                "level": {
+                    "enumType": "se.mat.mycroft.enums.AllergyLevel",
+                    "name": "CONTAINS"
+                },
+                "substanceName": "Gluten"
+            },
+            {
+                "id": 13,
+                "infoSource": null,
+                "level": {
+                    "enumType": "se.mat.mycroft.enums.AllergyLevel",
+                    "name": "TRACES"
+                },
+                "substanceName": "Sesamfrön"
+            }
+        ],
+        "warehouseProductMappingId": null,
+        "productRelationship": {
+            "canBeReplacedWithProductIds": [
+                16966
+            ],
+            "canBeSubstitutedWithProductIds": [
+                80348,
+                16977,
+                93237,
+                16975,
+                90046,
+                67465
+            ],
+            "sameContentProductIds": [
+                16973
+            ]
+        },
+        "soldCount": 65215,
+        "variety": "",
+        "isAgreeWithPersonalTerms": null,
+        "hasDeclinedPersonalAgreement": null,
+        "probability": null,
+        "productCountries": [],
+        "productVarieties": [],
+        "productBanner": null,
+        "isShowOnTopProduct": false,
+        "primaryCategoryNamePath": "Mat.se Göteborg/Bageri/Bröd/Korvbröd"
+    },
+    {
+        "id": 16973,
+        "dateCreated": "Tue Feb 21 06:03:14 CET 2017",
+        "name": "Korvbröd",
+        "showPrice": "25,95  kr",
+        "friendlyUrl": "korvbrod-16-st-korvbrodsbagarn-432g",
+        "formattedName": "Korvbröd",
+        "ean": "7311379532058",
+        "countryOfOrigin": "SE",
+        "translatedCountryName": "Sverige",
+        "labelTags": [],
+        "hasImage": true,
+        "imageUrl": "https://d1hr6nb56yyl1.cloudfront.net/product-images/16973-150.jpg",
+        "brand": {
+            "id": 12343,
+            "name": "Korvbrödbagarn"
+        },
+        "categories": [
+            {
+                "id": 2981,
+                "name": "Korvbröd"
+            }
+        ],
+        "displayBrand": "Korvbrödbagarn",
+        "favouriteCount": 10388,
+        "active": true,
+        "inStockQuantity": 168,
+        "orderable": true,
+        "price": 25.949999999999999289457264239899814128875732421875,
+        "priceWithoutVat": 23.169642857100001265280297957360744476318359375,
+        "recommendedRetailPrice": null,
+        "readableComparisonPrice": "60,07 kr/kg",
+        "discount": null,
+        "discountedPrice": 0,
+        "size": "16P/432g",
+        "weightProduct": false,
+        "vat": 12,
+        "content": "VETEMJÖL, vatten, invertsocker, rapsolja, jäst, VETEGLUTEN, fermenterat VETEMJÖL, salt, vegetabiliskt emulgeringsmedel (E471), MALTMJÖL av KORN, mjölbehandlingsmedel E300. Kan innehålla spår av SESAMFRÖ.",
+        "nutrition": "Näringsvärde per 100 Gram\nenergi 1200 Kilojoule\nenergi 290 Kilokalori\nfett 6.3 Gram\nvarav mättat fett 0.7 Gram\nkolhydrat 48 Gram\nvarav sockerarter 4.4 Gram\nfiber 2 Gram\nprotein 9.4 Gram\nsalt 0.4 Gram",
+        "durability": null,
+        "recycling": null,
+        "detail": "Fribakat korvbröd, skuret",
+        "storage": "Förvaras vid högst 8 °C",
+        "combinedNameWithBrand": "Korvbröd Korvbrödbagarn",
+        "averageProductLife": 0,
+        "minimumDaysBeforeExpire": 0,
+        "averageUnitWeight": 439,
+        "weight": 439,
+        "isMixable": false,
+        "idRequired": 0,
+        "tagNames": [
+            "korv bröd",
+            "vitt bröd",
+            "ljust bröd",
+            "bageri",
+            "korvbröd",
+            "bageriprodukter",
+            "korv",
+            "grilla",
+            "bröd"
+        ],
+        "featured": false,
+        "campaignRank": 2147483647,
+        "availableQuantities": [
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10934"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10848"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10914"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10892"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10882"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10908"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10872"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "default"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10878"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10916"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10856"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10846"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10870"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10854"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10890"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10922"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10884"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10898"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10924"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10906"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10930"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10864"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10862"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10936"
+            },
+            {
+                "quantity": 168,
+                "quantityKey": "dw-10900"
+            }
+        ],
+        "emission": 0,
+        "allergies": [
+            {
+                "id": 13,
+                "infoSource": null,
+                "level": {
+                    "enumType": "se.mat.mycroft.enums.AllergyLevel",
+                    "name": "TRACES"
+                },
+                "substanceName": "Sesamfrön"
+            },
+            {
+                "id": 1,
+                "infoSource": null,
+                "level": {
+                    "enumType": "se.mat.mycroft.enums.AllergyLevel",
+                    "name": "CONTAINS"
+                },
+                "substanceName": "Gluten"
+            }
+        ],
+        "warehouseProductMappingId": null,
+        "productRelationship": {
+            "canBeReplacedWithProductIds": [
+                16966
+            ],
+            "canBeSubstitutedWithProductIds": [
+                80348,
+                16977,
+                93237,
+                16975,
+                90046,
+                67465
+            ],
+            "sameContentProductIds": [
+                16974
+            ]
+        },
+        "soldCount": 65247,
+        "variety": "",
+        "isAgreeWithPersonalTerms": null,
+        "hasDeclinedPersonalAgreement": null,
+        "probability": null,
+        "productCountries": [],
+        "productVarieties": [],
+        "productBanner": null,
+        "isShowOnTopProduct": false,
+        "primaryCategoryNamePath": "Mat.se Göteborg/Bageri/Bröd/Korvbröd"
+    }
+]
