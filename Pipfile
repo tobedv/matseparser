@@ -5,12 +5,12 @@ name = "pypi"
 
 [packages]
 requests = "*"
-pytest-cov = "*"
 
 [dev-packages]
 pytest = "*"
 black = "*"
 requests-mock = "*"
+pytest-cov = "*"
 
 [requires]
 python_version = "3.9"
